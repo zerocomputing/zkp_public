@@ -2,6 +2,6 @@
   "name": "Zero Computing",
   "website": "https://zerocomputing.com/",
   "description": "Specialized ZK prover.",
-  "logo": "https://storage.googleapis.com/zerocomputing-public/logo.png",
+  "logo": "https://raw.githubusercontent.com/zerocomputing/zkp_public/master/logo.png",
   "twitter": "https://x.com/zero_computing/"
 }
